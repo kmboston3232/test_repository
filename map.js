@@ -412,7 +412,7 @@ var markers = [
 ];
 
 var svgrepo_icon = L.icon({
-    iconUrl: 'svgrepo_mining_marker.svg',
+    iconUrl: 'lib/leaflet/svgrepo_mining_marker.svg',
     iconSize: [24,24]
 });
 
